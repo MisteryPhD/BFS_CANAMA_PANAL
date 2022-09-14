@@ -3,7 +3,7 @@ Simple "barley-break" task solved by breadth-first search algorithm (code in C)
 
 ![Alt text](PC_pzl.png?raw=true "Figure 1. Panama -> Canal barley-break")
 
-Breadth-first search algorithm implemented in C program in order to solve the given problem:
+Breadth-first search algorithm implemented in C program (***solve.c***) in order to solve the given problem:
 
 ```
 ENQUEUE start position
@@ -23,3 +23,5 @@ Compiled code could be run on Ubuntu OS as following:
 ```
 ./solve
 ```
+
+The result of program execution is presented in file "output.txt"
