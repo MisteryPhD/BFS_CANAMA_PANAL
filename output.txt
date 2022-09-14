@@ -1,0 +1,142 @@
+Number of items in the hash table at the end is : 73231
+Number of empty hash table buckets is : 26773
+Number of hash table buckets with only one item in them at the end is : 35296
+Maximum number of items in a largest hash table  bucketat the end is : 8
+Number of positions in the queue at the end is : 28247
+Maximum number of positions ever in the queue is : 28247
+
+Step 0 :
+
+C A N A M A 
+P A N A L   
+
+Step 1 ,move L west:
+
+C A N A M A 
+P A N A   L 
+
+Step 2 ,move A west:
+
+C A N A M A 
+P A N   A L 
+
+Step 3 ,move N west:
+
+C A N A M A 
+P A   N A L 
+
+Step 4 ,move A west:
+
+C A N A M A 
+P   A N A L 
+
+Step 5 ,move P west:
+
+C A N A M A 
+  P A N A L 
+
+Step 6 ,move C north:
+
+  A N A M A 
+C P A N A L 
+
+Step 7 ,move A east:
+
+A   N A M A 
+C P A N A L 
+
+Step 8 ,move P south:
+
+A P N A M A 
+C   A N A L 
+
+Step 9 ,move A east:
+
+A P N A M A 
+C A   N A L 
+
+Step 10 ,move N north:
+
+A P   A M A 
+C A N N A L 
+
+Step 11 ,move P west:
+
+A   P A M A 
+C A N N A L 
+
+Step 12 ,move A west:
+
+  A P A M A 
+C A N N A L 
+
+Step 13 ,move C south:
+
+C A P A M A 
+  A N N A L 
+
+Step 14 ,move A east:
+
+C A P A M A 
+A   N N A L 
+
+Step 15 ,move A north:
+
+C   P A M A 
+A A N N A L 
+
+Step 16 ,move P east:
+
+C P   A M A 
+A A N N A L 
+
+Step 17 ,move N south:
+
+C P N A M A 
+A A   N A L 
+
+Step 18 ,move A west:
+
+C P N A M A 
+A   A N A L 
+
+Step 19 ,move A west:
+
+C P N A M A 
+  A A N A L 
+
+Step 20 ,move C north:
+
+  P N A M A 
+C A A N A L 
+
+Step 21 ,move P east:
+
+P   N A M A 
+C A A N A L 
+
+Step 22 ,move A south:
+
+P A N A M A 
+C   A N A L 
+
+Step 23 ,move A east:
+
+P A N A M A 
+C A   N A L 
+
+Step 24 ,move N east:
+
+P A N A M A 
+C A N   A L 
+
+Step 25 ,move A east:
+
+P A N A M A 
+C A N A   L 
+
+Step 26 ,move L east:
+
+P A N A M A 
+C A N A L   
+exit
