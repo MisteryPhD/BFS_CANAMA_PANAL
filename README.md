@@ -5,6 +5,7 @@ Simple "barley-break" task solved by breadth-first search algorithm (code in C)
 
 Breadth-first search algorithm implemented in C program in order to solve the given problem:
 
+```
 ENQUEUE start position
 while(goal position not found) do begin
     DEQUEUE a position P
@@ -12,3 +13,4 @@ while(goal position not found) do begin
         INSERT X into the hash table and ENQUEUE X
     end
 end
+```
