@@ -19,7 +19,7 @@ The code compilation is simple under the Ubuntu OS:
 ```
 gcc -ansi -Wall  solve.c -o solve
 ```
-Compiled code could be run on Ubuntu OS as following:
+Compiled code could be run on Ubuntu OS as follows:
 ```
 ./solve
 ```
