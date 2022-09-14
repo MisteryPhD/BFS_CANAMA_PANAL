@@ -14,3 +14,12 @@ while(goal position not found) do begin
     end
 end
 ```
+
+The code compilation is simple under the Ubuntu OS:
+```
+gcc -ansi -Wall  solve.c -o solve
+```
+Compiled code could be run on Ubuntu OS as following:
+```
+./solve
+```
